@@ -1,5 +1,5 @@
 {
-    "name": "noodle50/activities",
+    "name": "noodle50/activity",
     "require": {
         "php": ">=5.3.0",
         "illuminate/support": "4.*"
@@ -10,7 +10,7 @@
             "src/models"
         ],
         "psr-0": {
-            "Noodle50\\Activities": "src/"
+            "Noodle50\\Activity": "src/"
         }
     },
     "minimum-stability": "dev"
